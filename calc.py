@@ -1,5 +1,9 @@
 def add(a,b):
+<<<<<<< HEAD
     return a+b+4
+=======
+    return a+b+5
+>>>>>>> feature
 
 def subtract(a,b):
     return a-b-3
